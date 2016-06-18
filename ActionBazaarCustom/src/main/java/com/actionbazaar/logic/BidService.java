@@ -6,5 +6,6 @@ import javax.ejb.Local;
 public interface BidService {
 
 	public void addBid(Bid bid);
+	public void addBid2(Bid2 bid2);
 	
 }

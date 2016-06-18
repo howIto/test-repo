@@ -13,6 +13,7 @@
             <version>3.0.1</version>
             <scope>provided</scope>
         </dependency>
+		dependency
         <dependency>
             <groupId>org.jboss.arquillian.container</groupId>
             <artifactId>arquillian-glassfish-embedded-3</artifactId>
