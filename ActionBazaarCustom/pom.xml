@@ -16,6 +16,8 @@
 		dependency
 		dependency
 		dependency
+		dependencydependency
+		dependency
 		dependency
         <dependency>
             <groupId>org.jboss.arquillian.container</groupId>
@@ -23,6 +25,8 @@
             <version>1.0.0.Alpha4</version>
             <scope>test</scope>
         </dependency>
+		dependencydependency
+		dependencydependency
         <dependency>
             <groupId>org.glassfish.extras</groupId>
             <artifactId>glassfish-embedded-all</artifactId>
